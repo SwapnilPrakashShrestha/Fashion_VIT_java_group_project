@@ -419,7 +419,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Team Members:** Chiran Rayamajhi, Prem Gurung, Saroj Kumar Lamichhane, Nisarg Ashvinkumar Patel, Priyank Patel
+- **Team Members:** Himakesh Chakilam, Subramanyam Mulagala, Bhramarambika Gajula, Swapnil Prakash Shrestha
+
 - **Course:** ICT 602 - Software Engineering
 - **Institution:** Victoria Institute of Technology (VIT)
 
@@ -441,7 +442,6 @@ For questions or support, please open an issue on GitHub or contact the developm
 
 **Last Updated:** 16 November 2025  
 **Version:** 1.0.0  
-**Status:** ✅ Production Ready
 
 ---
 
