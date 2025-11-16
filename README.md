@@ -95,5 +95,4 @@ Centralized inventory management.
 2. 67712	Subramanyam Mulagala
 3. 67715	Bhramarambika Gajula
 4. 66154	Swapnil Prakash Shrestha
-3.
-4.
+
